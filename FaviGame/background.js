@@ -15,8 +15,8 @@ function openAppWindow() {
 			focused : true,
 			height : WINDOW.HEIGHT,
 			width : WINDOW.WIDTH,
-			top : 300,
-			left : 1200,
+			top : 500,
+			left : 500,
 			type : 'popup',
 			url : app,
 		};
